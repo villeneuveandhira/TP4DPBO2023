@@ -47,7 +47,7 @@ https://github.com/villeneuveandhira/TP4DPBO2023/assets/101118033/bf965385-24ce-
 5. Untuk menghapus data team, tekan tombol 'Delete' dan data akan terhapus dari database.
 
 <br />
-Preview:
+Preview:<br />
 - Add<br />
 
 
@@ -75,7 +75,7 @@ https://github.com/villeneuveandhira/TP4DPBO2023/assets/101118033/a0d0e319-809f-
 4. Untuk penghapusan data member, juga ada tombol 'Delete' dan data akan terhapus.
 
 <br />
-Preview:
+Preview:<br />
 - Add<br />
 
 
